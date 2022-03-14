@@ -3,6 +3,12 @@
 
 <h3>Portfolio: https://drive.google.com/file/d/1js_9g_DN2KBiva80T3y0GE1MDxc9AcqL/view?usp=sharing</h3>
 
+<hr>
+
+<h2>Experince:</h2>
+<p>Languages: Python, CSS3, HTML5, MySQL, PHP</p>
+<p>Design: Figma, Wordpress</p>
+
 Java FX blilder by Louisa Sapina
 
 1. JAVA on Intellif and Scene Builder
