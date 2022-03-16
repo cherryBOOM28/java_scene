@@ -9,7 +9,8 @@
 <p>Python, CSS3, HTML5, MySQL, PHP</p>
 <p>Figma, Wordpress</p>
 
-Java FX builder
+<hr>
+This project is about: Java FX builder
 JAVA on Intellij Idea and Scene Builder
 
 1. JavaFx registration window
