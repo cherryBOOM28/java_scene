@@ -12,9 +12,9 @@
 Java FX builder
 JAVA on Intellij Idea and Scene Builder
 
-1. Окно с регистрацией на JavaFx
-2. Подключение базы данных к приложению (MySQL + JDBC)
-3. Подключение к базе данных (Java JDBC)
-4. Добавление пользователя в базу данных
-5. Авторизация в приложении
-6.  Добавление анимации на Java
+1. JavaFx registration window
+2. Connecting the database to the application (MySQL + JDBC)
+3. Database connection (Java JDBC)
+4. Adding a user to the database
+5. Authorization in the application
+6. Add animation in Java
