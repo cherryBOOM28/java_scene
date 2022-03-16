@@ -29,7 +29,7 @@ public class signupController {
     private TextField signupCountry;
 
     @FXML
-    private PasswordField signupLastName;
+    private TextField signupLastName;
 
     @FXML
     private TextField signupLogin;
@@ -43,6 +43,32 @@ public class signupController {
     @FXML
     void initialize() {
 
+        signupButton.setOnAction(event ->{
+            
+            signupNewUser();
+
+
+        });
+
+    }
+
+    private void signupNewUser() {
+        DatabaseHandler dbHandler = new DatabaseHandler();
+
+        String firstname = signupName.getText();
+        String lastname = signupLastName.getText();
+        String login = signupLogin.getText();
+        String password = signupPassword.getText();
+        String country = signupCountry.getText();
+        String gender = "";
+        if(signupCheckBoxFemale.isSelected())
+            gender = "Женский";
+        else
+            gender = "Мужской";
+
+        User user = new User(firstname, lastname, login, password, country, gender);
+
+        dbHandler.signUpUser(user);
     }
 
 }

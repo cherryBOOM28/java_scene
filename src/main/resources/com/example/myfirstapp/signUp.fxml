@@ -22,11 +22,11 @@
                         <Font size="17.0" />
                     </font>
                 </TextField>
-                <PasswordField fx:id="signupLastName" layoutX="22.0" layoutY="86.0" prefHeight="39.0" prefWidth="312.0" promptText="Фамилия" style="-fx-background-color: #fafafa; -fx-border-color: silver; -fx-border-radius: 5;">
+                <TextField fx:id="signupLastName" layoutX="22.0" layoutY="86.0" prefHeight="39.0" prefWidth="312.0" promptText="Фамилия" style="-fx-background-color: #fafafa; -fx-border-color: silver; -fx-border-radius: 5;">
                     <font>
                         <Font size="17.0" />
                     </font>
-                </PasswordField>
+                </TextField>
                 <TextField fx:id="signupLogin" layoutX="346.0" layoutY="27.0" prefHeight="39.0" prefWidth="312.0" promptText="Логин" style="-fx-background-color: #fafafa; -fx-border-color: silver; -fx-border-radius: 5;">
                     <font>
                         <Font size="17.0" />
