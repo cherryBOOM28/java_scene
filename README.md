@@ -10,9 +10,11 @@
 <p>Figma, Wordpress</p>
 
 Java FX builder
+JAVA on Intellij Idea and Scene Builder
 
-1. JAVA on Intellij Idea and Scene Builder
-2. В Java создала Hello Application главная страница проекта
-3. Создала 3 главных контроллера для окон: HelloController, HomeController, signuoController
-4. В Scene builder создала дизайн для этих окон
-5. Создала для этий функция БД на MySQL 
+1. Окно с регистрацией на JavaFx
+2. Подключение базы данных к приложению (MySQL + JDBC)
+3. Подключение к базе данных (Java JDBC)
+4. Добавление пользователя в базу данных
+5. Авторизация в приложении
+6.  Добавление анимации на Java
