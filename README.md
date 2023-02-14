@@ -2,12 +2,6 @@
 <p>third-year student of the Faculty of Information Technology and Engineering in Astana International University</p>
 
 <hr>
-
-<h2>Experince:</h2>
-<p>Python, CSS3, HTML5, MySQL, PHP</p>
-<p>Figma, Wordpress</p>
-
-<hr>
 This project is about: Java FX builder
 JAVA on Intellij Idea and Scene Builder
 
